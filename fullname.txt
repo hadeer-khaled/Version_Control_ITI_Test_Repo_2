@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Hadeer Kjaled
 Age: 23 
-=======
 Hadeer Khaled Nabil
->>>>>>> d338c0690d19fe008b65ad642cee3eb8b55c7541
+Faculty of Engineering - Cairo University
