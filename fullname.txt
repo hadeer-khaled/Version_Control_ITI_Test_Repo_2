@@ -2,6 +2,10 @@ Hadeer Khaled
 Age: 23 
 Hadeer Khaled Nabil
 Faculty of Engineering - Cairo University
+<<<<<<< HEAD
 ITI
 Open Source
 intake 44
+=======
+ITI
+>>>>>>> 84bb2b56c1abdc53c0e3cec62c5366fe4742a738
